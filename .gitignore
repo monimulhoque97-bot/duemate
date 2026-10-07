@@ -1,0 +1,28 @@
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Android
+android/.gradle/
+android/local.properties
+
+# iOS
+ios/Pods/
+
+# Node.js
+duemate_backend/node_modules/
+
+# Environment / secrets
+.env
+*.env
+
+# macOS
+.DS_Store
